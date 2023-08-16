@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vladimir Apraxin AKA @turboheadcrab
 - 👀 I’m interested in Formula 1, videogames and fixing cars
-- 🌱 I’m currently relearning everything I was supposed to learn back in university
+- 🌱 I’m currently working at FedEx as Full Stack Developer through Cook Systems
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me? Really, how?
 
